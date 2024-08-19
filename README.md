@@ -1,1 +1,2 @@
-This repository consists of React JS projects.
+This Repository consists of React JS projects.
+Some of projects used Vite.
